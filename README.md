@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Nguyễn Đình Vượng
 
-🎓 **Final-year Computer Science Student** | 💻 **Java Backend Developer**
+🎓 **Final-year Computer Science Student** . **Java Backend Developer**
 
 I’m passionate about building **clean, secure, and scalable backend systems** using **Java & Spring Boot**.  
-My focus is on **REST API design**, **JWT authentication**, **database optimization (JPA/Hibernate)**, and **DevOps workflows** with Docker & Git.
+I focus on **REST API design**, **JWT-based authentication**, **database optimization (JPA/Hibernate)**,  
+and maintaining **collaborative, structured Git workflows**.
 
 ---
 
