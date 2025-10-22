@@ -38,8 +38,6 @@ and maintaining **collaborative, structured Git workflows**.
 ---
 
 ## 🎓 Education  
----
-
 🎯 **Hanoi University of Mining and Geology (HUMG)**  
 📘 *Major:* Computer Science  
 ⭐ *GPA:* 3.23 / 4.0  
