@@ -37,8 +37,9 @@ My focus is on **REST API design**, **JWT authentication**, **database optimizat
 ---
 
 ## 🎓 Education  
+---
 
-**Hanoi University of Mining and Geology (HUMG)**
+🎯 **Hanoi University of Mining and Geology (HUMG)**  
 📘 *Major:* Computer Science  
 ⭐ *GPA:* 3.23 / 4.0  
 🗓️ *Duration:* 2022 – 2026  
