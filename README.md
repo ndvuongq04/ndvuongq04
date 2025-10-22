@@ -11,16 +11,16 @@ My focus is on **REST API design**, **JWT authentication**, **database optimizat
 
 **Languages**  
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C/C++](https://img.shields.io/badge/C%2FC++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC++-00599C?logo=cplusplus&logoColor=white)
 
 
 **Frameworks / Libraries**  
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
-![ReactJS](https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![ReactJS](https://img.shields.io/badge/ReactJS-20232A?&logo=react&logoColor=61DAFB)
 
 
 **Databases**  
